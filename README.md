@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Raja Mahameru</h1>
+<h1 align="center">Hi 👋, I'm Adipati</h1>
 <h3 align="center">someone who likes technology</h3>
 <img align="right" alt="Coding" width="400" src="https://www.jagoanhosting.com/blog/wp-content/uploads/2021/02/joshua-reddekopp-SyYmXSDnJ54-unsplash-scaled.jpg"
 
